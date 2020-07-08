@@ -7,6 +7,13 @@
     padding: 0;
 }
 
+/*todo
+	create dragon quest character that moves along with cursor
+	when clicked, the character raises his sword high
+	
+*/
+
+
 /*
 xs (for phones - screens less than 768px wide)
 sm (for tablets - screens equal to or greater than 768px wide)
@@ -55,7 +62,7 @@ html,body{
 
 /*animation*/
 .animation{
-	padding-left: 10px;
+	padding-left: 30px;
 }
 
 
